@@ -1,0 +1,1 @@
+{"553319350a946d1766081278a875c2d0":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"75faa8f5b5258407","reportUrl":"https://epam-zakharenka-dzmitry.github.io/allure-report-action-sample/1//#testresult/75faa8f5b5258407","status":"passed","time":{"start":1718618987240,"stop":1718618987267,"duration":27}}]}}
